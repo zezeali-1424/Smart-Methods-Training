@@ -3,7 +3,7 @@
 Welcome to my Smart Methods internship repository.
 
 ## About Me
-- Name: Danah Makhlouti
+- Name: Zainab Ali Makhlouti
 - Information Technology Student at Taif University
 - Trainee at Smart Methods
 
@@ -13,4 +13,4 @@ Welcome to my Smart Methods internship repository.
 - Artificial Intelligence and Robotics
 - NLP and Web
 
-This repository contains my tasks, projects, and reports completed during the internship.
+This repository contains my tasks, projects, and reports completed during my internship at Smart Methods.
